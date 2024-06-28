@@ -1,0 +1,57 @@
+
+footer {
+
+text-align: center;
+
+
+}
+
+
+.novidade {
+
+    display: flex;
+justify-content: center;
+align-items: center;
+background-color: #555555;
+height: 60px;
+
+}
+
+.novidade input {
+
+    width: 450px;
+    margin-left: 400px;
+    height: 35px;
+
+
+}
+
+.novidade h2 {
+
+color: #fff;
+font-weight: 700;
+font-size: 25px;
+margin-left: 100PX;
+
+}
+
+.novidade button {
+
+background-color: #84A1F0;
+border: none;
+position: relative;
+right: 80px;
+color: #fff;
+border-radius: 5px;
+height: 30px;
+width: 70px;
+text-align: center;
+font-weight: 700;
+
+}
+
+.container-footer {
+
+background-color: #202020;
+
+}
